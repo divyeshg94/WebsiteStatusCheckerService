@@ -1,0 +1,309 @@
+﻿Installing assembly 'C:\Repo\WebStatusCheckerService\WebStatusCheckerService\WebStatusCheckerService\bin\Debug\WebStatusCheckerService.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Repo\WebStatusCheckerService\WebStatusCheckerService\WebStatusCheckerService\bin\Debug\WebStatusCheckerService.InstallLog
+   assemblypath = C:\Repo\WebStatusCheckerService\WebStatusCheckerService\WebStatusCheckerService\bin\Debug\WebStatusCheckerService.exe
+   logtoconsole = 
+Rolling back assembly 'C:\Repo\WebStatusCheckerService\WebStatusCheckerService\WebStatusCheckerService\bin\Debug\WebStatusCheckerService.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Repo\WebStatusCheckerService\WebStatusCheckerService\WebStatusCheckerService\bin\Debug\WebStatusCheckerService.InstallLog
+   assemblypath = C:\Repo\WebStatusCheckerService\WebStatusCheckerService\WebStatusCheckerService\bin\Debug\WebStatusCheckerService.exe
+   logtoconsole = 
+An exception occurred during the Rollback phase of the System.ServiceProcess.ServiceProcessInstaller installer.
+System.NullReferenceException: Object reference not set to an instance of an object.
+An exception occurred during the Rollback phase of the installation. This exception will be ignored and the rollback will continue. However, the machine might not fully revert to its initial state after the rollback is complete.
+Installing assembly 'C:\Repo\WebStatusCheckerService\WebStatusCheckerService\WebStatusCheckerService\bin\Debug\WebStatusCheckerService.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Repo\WebStatusCheckerService\WebStatusCheckerService\WebStatusCheckerService\bin\Debug\WebStatusCheckerService.InstallLog
+   assemblypath = C:\Repo\WebStatusCheckerService\WebStatusCheckerService\WebStatusCheckerService\bin\Debug\WebStatusCheckerService.exe
+   logtoconsole = 
+Rolling back assembly 'C:\Repo\WebStatusCheckerService\WebStatusCheckerService\WebStatusCheckerService\bin\Debug\WebStatusCheckerService.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Repo\WebStatusCheckerService\WebStatusCheckerService\WebStatusCheckerService\bin\Debug\WebStatusCheckerService.InstallLog
+   assemblypath = C:\Repo\WebStatusCheckerService\WebStatusCheckerService\WebStatusCheckerService\bin\Debug\WebStatusCheckerService.exe
+   logtoconsole = 
+An exception occurred during the Rollback phase of the System.ServiceProcess.ServiceProcessInstaller installer.
+System.NullReferenceException: Object reference not set to an instance of an object.
+An exception occurred during the Rollback phase of the installation. This exception will be ignored and the rollback will continue. However, the machine might not fully revert to its initial state after the rollback is complete.
+Installing assembly 'C:\Repo\WebStatusCheckerService\WebStatusCheckerService\WebStatusCheckerService\bin\Debug\WebStatusCheckerService.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Repo\WebStatusCheckerService\WebStatusCheckerService\WebStatusCheckerService\bin\Debug\WebStatusCheckerService.InstallLog
+   assemblypath = C:\Repo\WebStatusCheckerService\WebStatusCheckerService\WebStatusCheckerService\bin\Debug\WebStatusCheckerService.exe
+   logtoconsole = 
+Rolling back assembly 'C:\Repo\WebStatusCheckerService\WebStatusCheckerService\WebStatusCheckerService\bin\Debug\WebStatusCheckerService.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Repo\WebStatusCheckerService\WebStatusCheckerService\WebStatusCheckerService\bin\Debug\WebStatusCheckerService.InstallLog
+   assemblypath = C:\Repo\WebStatusCheckerService\WebStatusCheckerService\WebStatusCheckerService\bin\Debug\WebStatusCheckerService.exe
+   logtoconsole = 
+An exception occurred during the Rollback phase of the System.ServiceProcess.ServiceProcessInstaller installer.
+System.NullReferenceException: Object reference not set to an instance of an object.
+An exception occurred during the Rollback phase of the installation. This exception will be ignored and the rollback will continue. However, the machine might not fully revert to its initial state after the rollback is complete.
+Installing assembly 'C:\Repo\WebStatusCheckerService\WebStatusCheckerService\WebStatusCheckerService\bin\Debug\WebStatusCheckerService.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Repo\WebStatusCheckerService\WebStatusCheckerService\WebStatusCheckerService\bin\Debug\WebStatusCheckerService.InstallLog
+   assemblypath = C:\Repo\WebStatusCheckerService\WebStatusCheckerService\WebStatusCheckerService\bin\Debug\WebStatusCheckerService.exe
+   logtoconsole = 
+Rolling back assembly 'C:\Repo\WebStatusCheckerService\WebStatusCheckerService\WebStatusCheckerService\bin\Debug\WebStatusCheckerService.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Repo\WebStatusCheckerService\WebStatusCheckerService\WebStatusCheckerService\bin\Debug\WebStatusCheckerService.InstallLog
+   assemblypath = C:\Repo\WebStatusCheckerService\WebStatusCheckerService\WebStatusCheckerService\bin\Debug\WebStatusCheckerService.exe
+   logtoconsole = 
+An exception occurred during the Rollback phase of the System.ServiceProcess.ServiceProcessInstaller installer.
+System.NullReferenceException: Object reference not set to an instance of an object.
+An exception occurred during the Rollback phase of the installation. This exception will be ignored and the rollback will continue. However, the machine might not fully revert to its initial state after the rollback is complete.
+Installing assembly 'C:\Repo\WebStatusCheckerService\WebStatusCheckerService\WebStatusCheckerService\bin\Debug\WebStatusCheckerService.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Repo\WebStatusCheckerService\WebStatusCheckerService\WebStatusCheckerService\bin\Debug\WebStatusCheckerService.InstallLog
+   assemblypath = C:\Repo\WebStatusCheckerService\WebStatusCheckerService\WebStatusCheckerService\bin\Debug\WebStatusCheckerService.exe
+   logtoconsole = 
+Rolling back assembly 'C:\Repo\WebStatusCheckerService\WebStatusCheckerService\WebStatusCheckerService\bin\Debug\WebStatusCheckerService.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Repo\WebStatusCheckerService\WebStatusCheckerService\WebStatusCheckerService\bin\Debug\WebStatusCheckerService.InstallLog
+   assemblypath = C:\Repo\WebStatusCheckerService\WebStatusCheckerService\WebStatusCheckerService\bin\Debug\WebStatusCheckerService.exe
+   logtoconsole = 
+An exception occurred during the Rollback phase of the System.ServiceProcess.ServiceProcessInstaller installer.
+System.NullReferenceException: Object reference not set to an instance of an object.
+An exception occurred during the Rollback phase of the installation. This exception will be ignored and the rollback will continue. However, the machine might not fully revert to its initial state after the rollback is complete.
+Installing assembly 'C:\Repo\WebStatusCheckerService\WebStatusCheckerService\WebStatusCheckerService\bin\Debug\WebStatusCheckerService.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Repo\WebStatusCheckerService\WebStatusCheckerService\WebStatusCheckerService\bin\Debug\WebStatusCheckerService.InstallLog
+   assemblypath = C:\Repo\WebStatusCheckerService\WebStatusCheckerService\WebStatusCheckerService\bin\Debug\WebStatusCheckerService.exe
+   logtoconsole = 
+Rolling back assembly 'C:\Repo\WebStatusCheckerService\WebStatusCheckerService\WebStatusCheckerService\bin\Debug\WebStatusCheckerService.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Repo\WebStatusCheckerService\WebStatusCheckerService\WebStatusCheckerService\bin\Debug\WebStatusCheckerService.InstallLog
+   assemblypath = C:\Repo\WebStatusCheckerService\WebStatusCheckerService\WebStatusCheckerService\bin\Debug\WebStatusCheckerService.exe
+   logtoconsole = 
+An exception occurred during the Rollback phase of the System.ServiceProcess.ServiceProcessInstaller installer.
+System.NullReferenceException: Object reference not set to an instance of an object.
+An exception occurred during the Rollback phase of the installation. This exception will be ignored and the rollback will continue. However, the machine might not fully revert to its initial state after the rollback is complete.
+Installing assembly 'C:\Repo\WebStatusCheckerService\WebStatusCheckerService\WebStatusCheckerService\bin\Debug\WebStatusCheckerService.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Repo\WebStatusCheckerService\WebStatusCheckerService\WebStatusCheckerService\bin\Debug\WebStatusCheckerService.InstallLog
+   assemblypath = C:\Repo\WebStatusCheckerService\WebStatusCheckerService\WebStatusCheckerService\bin\Debug\WebStatusCheckerService.exe
+   logtoconsole = 
+Installing service Website Status Alert...
+Creating EventLog source Website Status Alert in log Application...
+Rolling back assembly 'C:\Repo\WebStatusCheckerService\WebStatusCheckerService\WebStatusCheckerService\bin\Debug\WebStatusCheckerService.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Repo\WebStatusCheckerService\WebStatusCheckerService\WebStatusCheckerService\bin\Debug\WebStatusCheckerService.InstallLog
+   assemblypath = C:\Repo\WebStatusCheckerService\WebStatusCheckerService\WebStatusCheckerService\bin\Debug\WebStatusCheckerService.exe
+   logtoconsole = 
+Restoring event log to previous state for source Website Status Alert.
+Installing assembly 'C:\Repo\WebStatusCheckerService\WebStatusCheckerService\WebStatusCheckerService\bin\Debug\WebStatusCheckerService.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Repo\WebStatusCheckerService\WebStatusCheckerService\WebStatusCheckerService\bin\Debug\WebStatusCheckerService.InstallLog
+   assemblypath = C:\Repo\WebStatusCheckerService\WebStatusCheckerService\WebStatusCheckerService\bin\Debug\WebStatusCheckerService.exe
+   logtoconsole = 
+Installing service Website Status Alert...
+Creating EventLog source Website Status Alert in log Application...
+Rolling back assembly 'C:\Repo\WebStatusCheckerService\WebStatusCheckerService\WebStatusCheckerService\bin\Debug\WebStatusCheckerService.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Repo\WebStatusCheckerService\WebStatusCheckerService\WebStatusCheckerService\bin\Debug\WebStatusCheckerService.InstallLog
+   assemblypath = C:\Repo\WebStatusCheckerService\WebStatusCheckerService\WebStatusCheckerService\bin\Debug\WebStatusCheckerService.exe
+   logtoconsole = 
+Restoring event log to previous state for source Website Status Alert.
+Installing assembly 'C:\Repo\WebStatusCheckerService\WebStatusCheckerService\WebStatusCheckerService\bin\Debug\WebStatusCheckerService.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Repo\WebStatusCheckerService\WebStatusCheckerService\WebStatusCheckerService\bin\Debug\WebStatusCheckerService.InstallLog
+   assemblypath = C:\Repo\WebStatusCheckerService\WebStatusCheckerService\WebStatusCheckerService\bin\Debug\WebStatusCheckerService.exe
+   logtoconsole = 
+Installing service Website Status Alert...
+Creating EventLog source Website Status Alert in log Application...
+Rolling back assembly 'C:\Repo\WebStatusCheckerService\WebStatusCheckerService\WebStatusCheckerService\bin\Debug\WebStatusCheckerService.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Repo\WebStatusCheckerService\WebStatusCheckerService\WebStatusCheckerService\bin\Debug\WebStatusCheckerService.InstallLog
+   assemblypath = C:\Repo\WebStatusCheckerService\WebStatusCheckerService\WebStatusCheckerService\bin\Debug\WebStatusCheckerService.exe
+   logtoconsole = 
+Restoring event log to previous state for source Website Status Alert.
+Installing assembly 'C:\Repo\WebStatusCheckerService\WebStatusCheckerService\WebStatusCheckerService\bin\Debug\WebStatusCheckerService.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Repo\WebStatusCheckerService\WebStatusCheckerService\WebStatusCheckerService\bin\Debug\WebStatusCheckerService.InstallLog
+   assemblypath = C:\Repo\WebStatusCheckerService\WebStatusCheckerService\WebStatusCheckerService\bin\Debug\WebStatusCheckerService.exe
+   logtoconsole = 
+Installing service Website Status Alert...
+Creating EventLog source Website Status Alert in log Application...
+Rolling back assembly 'C:\Repo\WebStatusCheckerService\WebStatusCheckerService\WebStatusCheckerService\bin\Debug\WebStatusCheckerService.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Repo\WebStatusCheckerService\WebStatusCheckerService\WebStatusCheckerService\bin\Debug\WebStatusCheckerService.InstallLog
+   assemblypath = C:\Repo\WebStatusCheckerService\WebStatusCheckerService\WebStatusCheckerService\bin\Debug\WebStatusCheckerService.exe
+   logtoconsole = 
+Restoring event log to previous state for source Website Status Alert.
+Installing assembly 'C:\Repo\WebStatusCheckerService\WebStatusCheckerService\WebStatusCheckerService\bin\Debug\WebStatusCheckerService.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Repo\WebStatusCheckerService\WebStatusCheckerService\WebStatusCheckerService\bin\Debug\WebStatusCheckerService.InstallLog
+   assemblypath = C:\Repo\WebStatusCheckerService\WebStatusCheckerService\WebStatusCheckerService\bin\Debug\WebStatusCheckerService.exe
+   logtoconsole = 
+Installing service Website Status Alert...
+Creating EventLog source Website Status Alert in log Application...
+Rolling back assembly 'C:\Repo\WebStatusCheckerService\WebStatusCheckerService\WebStatusCheckerService\bin\Debug\WebStatusCheckerService.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Repo\WebStatusCheckerService\WebStatusCheckerService\WebStatusCheckerService\bin\Debug\WebStatusCheckerService.InstallLog
+   assemblypath = C:\Repo\WebStatusCheckerService\WebStatusCheckerService\WebStatusCheckerService\bin\Debug\WebStatusCheckerService.exe
+   logtoconsole = 
+Restoring event log to previous state for source Website Status Alert.
+Installing assembly 'C:\Repo\WebStatusCheckerService\WebStatusCheckerService\WebStatusCheckerService\bin\Debug\WebStatusCheckerService.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Repo\WebStatusCheckerService\WebStatusCheckerService\WebStatusCheckerService\bin\Debug\WebStatusCheckerService.InstallLog
+   assemblypath = C:\Repo\WebStatusCheckerService\WebStatusCheckerService\WebStatusCheckerService\bin\Debug\WebStatusCheckerService.exe
+   logtoconsole = 
+Installing service Website Status Alert...
+Creating EventLog source Website Status Alert in log Application...
+Rolling back assembly 'C:\Repo\WebStatusCheckerService\WebStatusCheckerService\WebStatusCheckerService\bin\Debug\WebStatusCheckerService.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Repo\WebStatusCheckerService\WebStatusCheckerService\WebStatusCheckerService\bin\Debug\WebStatusCheckerService.InstallLog
+   assemblypath = C:\Repo\WebStatusCheckerService\WebStatusCheckerService\WebStatusCheckerService\bin\Debug\WebStatusCheckerService.exe
+   logtoconsole = 
+Restoring event log to previous state for source Website Status Alert.
+Installing assembly 'C:\Repo\WebStatusCheckerService\WebStatusCheckerService\WebStatusCheckerService\bin\Debug\WebStatusCheckerService.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Repo\WebStatusCheckerService\WebStatusCheckerService\WebStatusCheckerService\bin\Debug\WebStatusCheckerService.InstallLog
+   assemblypath = C:\Repo\WebStatusCheckerService\WebStatusCheckerService\WebStatusCheckerService\bin\Debug\WebStatusCheckerService.exe
+   logtoconsole = 
+Installing service Website Status Alert...
+Creating EventLog source Website Status Alert in log Application...
+Rolling back assembly 'C:\Repo\WebStatusCheckerService\WebStatusCheckerService\WebStatusCheckerService\bin\Debug\WebStatusCheckerService.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Repo\WebStatusCheckerService\WebStatusCheckerService\WebStatusCheckerService\bin\Debug\WebStatusCheckerService.InstallLog
+   assemblypath = C:\Repo\WebStatusCheckerService\WebStatusCheckerService\WebStatusCheckerService\bin\Debug\WebStatusCheckerService.exe
+   logtoconsole = 
+Restoring event log to previous state for source Website Status Alert.
+Installing assembly 'C:\Repo\WebStatusCheckerService\WebStatusCheckerService\WebStatusCheckerService\bin\Debug\WebStatusCheckerService.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Repo\WebStatusCheckerService\WebStatusCheckerService\WebStatusCheckerService\bin\Debug\WebStatusCheckerService.InstallLog
+   assemblypath = C:\Repo\WebStatusCheckerService\WebStatusCheckerService\WebStatusCheckerService\bin\Debug\WebStatusCheckerService.exe
+   logtoconsole = 
+Installing service Website Status Alert...
+Creating EventLog source Website Status Alert in log Application...
+Rolling back assembly 'C:\Repo\WebStatusCheckerService\WebStatusCheckerService\WebStatusCheckerService\bin\Debug\WebStatusCheckerService.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Repo\WebStatusCheckerService\WebStatusCheckerService\WebStatusCheckerService\bin\Debug\WebStatusCheckerService.InstallLog
+   assemblypath = C:\Repo\WebStatusCheckerService\WebStatusCheckerService\WebStatusCheckerService\bin\Debug\WebStatusCheckerService.exe
+   logtoconsole = 
+Restoring event log to previous state for source Website Status Alert.
+Installing assembly 'C:\Repo\WebStatusCheckerService\WebStatusCheckerService\WebStatusCheckerService\bin\Debug\WebStatusCheckerService.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Repo\WebStatusCheckerService\WebStatusCheckerService\WebStatusCheckerService\bin\Debug\WebStatusCheckerService.InstallLog
+   assemblypath = C:\Repo\WebStatusCheckerService\WebStatusCheckerService\WebStatusCheckerService\bin\Debug\WebStatusCheckerService.exe
+   logtoconsole = 
+Rolling back assembly 'C:\Repo\WebStatusCheckerService\WebStatusCheckerService\WebStatusCheckerService\bin\Debug\WebStatusCheckerService.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Repo\WebStatusCheckerService\WebStatusCheckerService\WebStatusCheckerService\bin\Debug\WebStatusCheckerService.InstallLog
+   assemblypath = C:\Repo\WebStatusCheckerService\WebStatusCheckerService\WebStatusCheckerService\bin\Debug\WebStatusCheckerService.exe
+   logtoconsole = 
+Installing assembly 'C:\Repo\WebStatusCheckerService\WebStatusCheckerService\WebStatusCheckerService\bin\Debug\WebStatusCheckerService.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Repo\WebStatusCheckerService\WebStatusCheckerService\WebStatusCheckerService\bin\Debug\WebStatusCheckerService.InstallLog
+   assemblypath = C:\Repo\WebStatusCheckerService\WebStatusCheckerService\WebStatusCheckerService\bin\Debug\WebStatusCheckerService.exe
+   logtoconsole = 
+Installing service Website Status Alert...
+Creating EventLog source Website Status Alert in log Application...
+Rolling back assembly 'C:\Repo\WebStatusCheckerService\WebStatusCheckerService\WebStatusCheckerService\bin\Debug\WebStatusCheckerService.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Repo\WebStatusCheckerService\WebStatusCheckerService\WebStatusCheckerService\bin\Debug\WebStatusCheckerService.InstallLog
+   assemblypath = C:\Repo\WebStatusCheckerService\WebStatusCheckerService\WebStatusCheckerService\bin\Debug\WebStatusCheckerService.exe
+   logtoconsole = 
+Restoring event log to previous state for source Website Status Alert.
+Installing assembly 'C:\Repo\WebStatusCheckerService\WebStatusCheckerService\WebStatusCheckerService\bin\Debug\WebStatusCheckerService.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Repo\WebStatusCheckerService\WebStatusCheckerService\WebStatusCheckerService\bin\Debug\WebStatusCheckerService.InstallLog
+   assemblypath = C:\Repo\WebStatusCheckerService\WebStatusCheckerService\WebStatusCheckerService\bin\Debug\WebStatusCheckerService.exe
+   logtoconsole = 
+Installing service Website Status Alert...
+Creating EventLog source Website Status Alert in log Application...
+Rolling back assembly 'C:\Repo\WebStatusCheckerService\WebStatusCheckerService\WebStatusCheckerService\bin\Debug\WebStatusCheckerService.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Repo\WebStatusCheckerService\WebStatusCheckerService\WebStatusCheckerService\bin\Debug\WebStatusCheckerService.InstallLog
+   assemblypath = C:\Repo\WebStatusCheckerService\WebStatusCheckerService\WebStatusCheckerService\bin\Debug\WebStatusCheckerService.exe
+   logtoconsole = 
+Restoring event log to previous state for source Website Status Alert.
+Installing assembly 'C:\Repo\WebStatusCheckerService\WebStatusCheckerService\WebStatusCheckerService\bin\Debug\WebStatusCheckerService.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Repo\WebStatusCheckerService\WebStatusCheckerService\WebStatusCheckerService\bin\Debug\WebStatusCheckerService.InstallLog
+   assemblypath = C:\Repo\WebStatusCheckerService\WebStatusCheckerService\WebStatusCheckerService\bin\Debug\WebStatusCheckerService.exe
+   logtoconsole = 
+Rolling back assembly 'C:\Repo\WebStatusCheckerService\WebStatusCheckerService\WebStatusCheckerService\bin\Debug\WebStatusCheckerService.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Repo\WebStatusCheckerService\WebStatusCheckerService\WebStatusCheckerService\bin\Debug\WebStatusCheckerService.InstallLog
+   assemblypath = C:\Repo\WebStatusCheckerService\WebStatusCheckerService\WebStatusCheckerService\bin\Debug\WebStatusCheckerService.exe
+   logtoconsole = 
+Installing assembly 'C:\Repo\WebStatusCheckerService\WebStatusCheckerService\WebStatusCheckerService\bin\Debug\WebStatusCheckerService.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Repo\WebStatusCheckerService\WebStatusCheckerService\WebStatusCheckerService\bin\Debug\WebStatusCheckerService.InstallLog
+   assemblypath = C:\Repo\WebStatusCheckerService\WebStatusCheckerService\WebStatusCheckerService\bin\Debug\WebStatusCheckerService.exe
+   logtoconsole = 
+Installing service Website Status Alert...
+Service Website Status Alert has been successfully installed.
+Creating EventLog source Website Status Alert in log Application...
+Committing assembly 'C:\Repo\WebStatusCheckerService\WebStatusCheckerService\WebStatusCheckerService\bin\Debug\WebStatusCheckerService.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Repo\WebStatusCheckerService\WebStatusCheckerService\WebStatusCheckerService\bin\Debug\WebStatusCheckerService.InstallLog
+   assemblypath = C:\Repo\WebStatusCheckerService\WebStatusCheckerService\WebStatusCheckerService\bin\Debug\WebStatusCheckerService.exe
+   logtoconsole = 
+Installing assembly 'C:\Repo\WebStatusCheckerService\WebStatusCheckerService\WebStatusCheckerService\bin\Debug\WebStatusCheckerService.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Repo\WebStatusCheckerService\WebStatusCheckerService\WebStatusCheckerService\bin\Debug\WebStatusCheckerService.InstallLog
+   assemblypath = C:\Repo\WebStatusCheckerService\WebStatusCheckerService\WebStatusCheckerService\bin\Debug\WebStatusCheckerService.exe
+   logtoconsole = 
+Installing service Website Status Alert...
+Creating EventLog source Website Status Alert in log Application...
+Rolling back assembly 'C:\Repo\WebStatusCheckerService\WebStatusCheckerService\WebStatusCheckerService\bin\Debug\WebStatusCheckerService.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Repo\WebStatusCheckerService\WebStatusCheckerService\WebStatusCheckerService\bin\Debug\WebStatusCheckerService.InstallLog
+   assemblypath = C:\Repo\WebStatusCheckerService\WebStatusCheckerService\WebStatusCheckerService\bin\Debug\WebStatusCheckerService.exe
+   logtoconsole = 
+Restoring event log to previous state for source Website Status Alert.
+Installing assembly 'C:\Repo\WebStatusCheckerService\WebStatusCheckerService\WebStatusCheckerService\bin\Debug\WebStatusCheckerService.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Repo\WebStatusCheckerService\WebStatusCheckerService\WebStatusCheckerService\bin\Debug\WebStatusCheckerService.InstallLog
+   assemblypath = C:\Repo\WebStatusCheckerService\WebStatusCheckerService\WebStatusCheckerService\bin\Debug\WebStatusCheckerService.exe
+   logtoconsole = 
+Installing service Website Status Alert...
+Creating EventLog source Website Status Alert in log Application...
+Rolling back assembly 'C:\Repo\WebStatusCheckerService\WebStatusCheckerService\WebStatusCheckerService\bin\Debug\WebStatusCheckerService.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Repo\WebStatusCheckerService\WebStatusCheckerService\WebStatusCheckerService\bin\Debug\WebStatusCheckerService.InstallLog
+   assemblypath = C:\Repo\WebStatusCheckerService\WebStatusCheckerService\WebStatusCheckerService\bin\Debug\WebStatusCheckerService.exe
+   logtoconsole = 
+Restoring event log to previous state for source Website Status Alert.

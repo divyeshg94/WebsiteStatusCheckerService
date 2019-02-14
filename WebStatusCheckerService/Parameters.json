@@ -1,0 +1,11 @@
+{
+  "SenderMailId": "divyeshg@cloudassert.com",
+  "SenderMailPassword": "Dha020415",
+  "Sites": [
+    {
+      "Name": "Hybr",
+      "Url": "https://localhost:5443",
+      "ReceiverList": "divyeshg@cloudassert.com"
+    }
+  ]
+}
